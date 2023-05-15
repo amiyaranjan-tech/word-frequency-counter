@@ -2,6 +2,8 @@
 
 Word Frequency Counter is a ReactJS application that calculates the frequency of occurrence of each word in a given text file and displays the top 20 most occurring words in a histogram. It also provides an option to export the histogram data as a CSV file.
 
+## Hosted on Netlify https://word-frequency-counter.netlify.app/
+
 ## Wordfrequency component
 
 The Wordfrequency component is the main component of the Word Frequency Counter application. It fetches the contents of a text file, calculates the frequency of occurrence of each word, and displays the top 20 most occurring words in a histogram.
