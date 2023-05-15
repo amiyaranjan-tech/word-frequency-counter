@@ -48,7 +48,7 @@ Node.js: Make sure Node.js is installed on your machine
 
 Clone the repository:
 
-`git clone https://github.com/your-username/word-frequency-counter.git`
+`git clone https://github.com/amiyaranjan-tech/word-frequency-counter.git`
 
 Navigate to the project directory:
 
